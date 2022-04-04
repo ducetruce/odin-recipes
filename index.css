@@ -5,6 +5,7 @@
     }
 
     .header {
+        background-color: blanchedalmond;
         color:lightseagreen;
         font-weight: bold;
         font-family: Verdana, Georgia, Helvetica;
@@ -12,6 +13,7 @@
     }
 
     .taco {
+        background-color: blanchedalmond;
         color: lightseagreen;
         font-weight: bold;
         font-family: Verdana, Georgia, Helvetica;
@@ -19,6 +21,7 @@
     }
 
     .dates {
+        background-color: blanchedalmond;
         color: lightseagreen;
         font-weight: bold;
         font-family: Verdana, Georgia, Helvetica;
@@ -26,6 +29,7 @@
     }
 
     .cheese {
+        background-color: blanchedalmond;
         color: lightseagreen;
         font-weight: bold;
         font-family: Verdana, Georgia, Helvetica;
