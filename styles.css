@@ -1,31 +1,17 @@
 /* styles.css */
 
     body {
-        background-color: blanchedalmond;
+        background: linear-gradient(45deg, #ffebcd, #20b2aa)
     }
 
     .header {
-        color:lightseagreen;
+        color: blanchedalmond;
         font-weight: bold;
         font-family: Verdana, Georgia, Helvetica;
         text-align: center;
     }
 
-    .taco {
-        color: lightseagreen;
-        font-weight: bold;
-        font-family: Verdana, Georgia, Helvetica;
-        text-align: center;
-    }
-
-    .dates {
-        color: lightseagreen;
-        font-weight: bold;
-        font-family: Verdana, Georgia, Helvetica;
-        text-align: center;
-    }
-
-    .cheese {
+    .list {
         color: lightseagreen;
         font-weight: bold;
         font-family: Verdana, Georgia, Helvetica;
